@@ -1,0 +1,22 @@
+.mright
+    {
+        margin-right: 10px !important;
+    }
+
+    .mtop
+    {
+        margin-top: 10px !important;
+    }
+    .mleft
+    {
+        margin-left: 5px !important;
+    }
+
+    .searchtext-lg
+    {
+        width: 375px !important;
+    }
+    .searchtext-sm
+    {
+        width: 125px !important;
+    }
